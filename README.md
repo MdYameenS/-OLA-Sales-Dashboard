@@ -1,13 +1,19 @@
-🚗 Ola Dashboard
-This dashboard provides a complete overview of Ola's operational performance, including key metrics like total revenue, ride volume, and regional contributions. Designed for business stakeholders, it enables detailed tracking of trends across months and regions, helping identify growth opportunities and performance gaps.
+📱 OLA Ride-Hailing Analytics Dashboard
+🎯 Purpose: A Power BI dashboard to visualize booking trends, cancellations, and revenue metrics [Practice Project].
+✨ Key Features:
 
-📌 Key Highlights:
+📅 Date-Range Analysis: Tracked 12.65K bookings (July 1–30, 2024) with dynamic filters.
 
-KPI cards for total earnings, completed rides, and revenue growth
+🚗 Cancellation Breakdown: Highlighted 3.65K driver cancellations vs. 2.08K customer cancellations.
 
-Region-wise comparison to evaluate city-specific performance
+💰 Revenue Trends: Mapped ride volume vs. earnings using DAX-powered measures.
 
-Monthly trend analysis to understand seasonal ride patterns
+⭐ Ratings Overview: Aggregated driver/customer ratings for quality assurance.
+🛠️ Technologies: Power BI (Slicers, Conditional Formatting), DAX (CALCULATE, SWITCH).
+🌟 My Role: Solo developer – Transformed raw CSV data into actionable insights.
+🔥 Challenges & Wins:
 
-Tools Used: Power BI, DAX, Power BI Service.
-Purpose: To support data-driven decision-making for ride-hailing performance across various Indian cities.
+Resolved data inconsistencies using DAX error-handling (e.g., IFERROR).
+
+Built a unified metrics panel to compare success rates (2.02K) vs. failures.
+📈 Outcome: Enhanced data storytelling skills by creating user-friendly drill-down reports.
